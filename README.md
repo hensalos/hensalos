@@ -4,7 +4,7 @@
 
 <!--
 **hensalos/hensalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 I am a passionate and dedicated Software Engineer with a strong focus on backend development, customer engineering, and developer experience. With expertise in Java, Python, SQL, and cloud technologies, I thrive in building robust and scalable applications.
 
 Beyond my technical skills, I am also a community builder and event facilitator, striving to bring people together and foster collaboration. I actively organize community events and workshops, creating spaces for learning and growth. Additionally, I am committed to empowering individuals from underrepresented communities by serving as a mentor.
@@ -25,4 +25,4 @@ Get to Know Me
 😄 Pronouns: He/Him
 ⚡ Fun fact: I have traveled to over 10 countries and love experiencing new cultures.
 
--->
+
